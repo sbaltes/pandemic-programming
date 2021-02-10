@@ -1,6 +1,9 @@
-# Recoding Responses of Pandemic Programming Survey
+# Pandemic Programming Survey
 
-R scripts to recode the raw data of our Pandemic Programming survey.
+We only publish the scripts, questionnaires, recoding instructions, as well the the recoded data in this repository.
+The raw data is not published, because it contains open-ended responses of our participants, which we promised not to publish.
+
+In the following, we provide the recoding instructions that [Sebastian Baltes](https://empirical-software.engineering) shared with all co-authors:
 
 1) Download responses as a CSV file:
 
