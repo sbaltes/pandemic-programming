@@ -1,4 +1,4 @@
-# covid-19-recoding
+# Recoding Responses of Pandemic Programming Survey
 
 R scripts to recode the raw data of our Pandemic Programming survey.
 
