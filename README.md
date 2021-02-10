@@ -4,7 +4,7 @@ We only publish the scripts, questionnaires, recoding instructions, as well the 
 The raw data is not published, because it contains open-ended responses of our participants, which we promised not to publish.
 If you reuse parts of this repository, please cite the corresponding research article:
 
-Ralph, P., Baltes, S., Adisaputri, G. et al. Pandemic programming: How COVID-19 affects software developers and how their organizations can help. Empirical Software Engineering 25, 4927–4961 (2020). https://doi.org/10.1007/s10664-020-09875-y
+Ralph, P., Baltes, S., Adisaputri, G. et al. *Pandemic programming: How COVID-19 affects software developers and how their organizations can help*. Empirical Software Engineering 25, 4927–4961 (2020). https://doi.org/10.1007/s10664-020-09875-y
 
 In the following, we provide the recoding instructions that [Sebastian Baltes](https://empirical-software.engineering) shared with all co-authors:
 
