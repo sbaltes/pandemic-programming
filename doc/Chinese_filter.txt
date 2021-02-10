@@ -1,0 +1,10 @@
+# Before the pandemic, I was working at the office. Now I am working from home. 
+# 41
+# During the pandemic, I was working from home. Now I am working at the office.
+# 40 (Including three responses that were deleted because they were empty (marked yellow in raw data)
+# I've been working remotely the whole time. 
+# 12 
+# I've been working at the office the whole time. 
+# 9 
+# Before the pandemic I was working remotely. Now I'm working at the office. 
+# 12 

@@ -1,0 +1,12 @@
+# Before the pandemic, I was working at the office. Now I am working from home.
+# (Prima della pandemia, lavoravo prevalentemente in ufficio. Adesso lavoro da casa.)
+# 176 
+# I've been working remotely the whole time.
+# (Ho sempre lavorato in remoto, anche prima della pandemia)
+# 10
+# I've been working at the office the whole time.
+# (Ho continuato a lavorare in ufficio.)
+# 1
+# Before the pandemic I was working remotely. Now I'm working at the office.
+# (Prima della pandemia lavoravo in remoto. Adesso lavoro in ufficio.)
+# 0 

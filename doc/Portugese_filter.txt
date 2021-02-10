@@ -1,0 +1,9 @@
+# Please note that the questionnaire had 327 answers, out of the first category was discarded for being complete non-sense, hence the numbers sum up 326
+# Before the pandemic, I was working at the office. Now I am working from home. 
+# 280
+# I've been working remotely the whole time. 
+# 39
+# I've been working at the office the whole time. 
+# 6 
+# Before the pandemic I was working remotely. Now I'm working at the office. 
+# 1

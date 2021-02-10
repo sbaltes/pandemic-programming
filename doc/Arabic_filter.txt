@@ -1,0 +1,8 @@
+# Before the pandemic, I was working at the office. Now I am working from home.
+# 56
+# I've been working remotely the whole time.
+# 47
+# I've been working at the office the whole time.
+# 16
+# Before the pandemic I was working remotely. Now I'm working at the office.
+# 3
