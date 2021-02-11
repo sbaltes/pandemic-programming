@@ -1,5 +1,7 @@
 # Pandemic Programming Survey
 
+[![DOI](https://zenodo.org/badge/337831152.svg)](https://zenodo.org/badge/latestdoi/337831152)
+
 We only publish the scripts, questionnaires, recoding instructions, as well the the recoded data in this repository.
 The raw data is not published, because it contains open-ended responses of our participants, which we promised not to publish.
 If you reuse parts of this repository, please cite the corresponding research article:
