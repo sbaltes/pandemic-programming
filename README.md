@@ -8,6 +8,8 @@ If you reuse parts of this repository, please cite the corresponding research ar
 
 Ralph, P., Baltes, S., Adisaputri, G. et al. *Pandemic programming: How COVID-19 affects software developers and how their organizations can help*. Empirical Software Engineering 25, 4927–4961 (2020). https://doi.org/10.1007/s10664-020-09875-y
 
+For our analyis script, see [this](https://github.com/torkar/pandemic_programming) repository.
+
 In the following, we provide the recoding instructions that [Sebastian Baltes](https://empirical-software.engineering) shared with all co-authors:
 
 1) Download responses as a CSV file:
