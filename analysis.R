@@ -166,6 +166,29 @@ n <- nrow(HPQB_HPQS)
 n
 # 2,078
 
+# compare change per participant
+
+HPQB_HPQS_diff <- HPQB_HPQS$HPQS - HPQB_HPQS$HPQB
+
+length(HPQB_HPQS_diff)
+# 2078
+
+length(which(is.na(HPQB_HPQS_diff)))
+# 0
+
+# same HPQ
+length(which(HPQB_HPQS_diff == 0))
+# 293
+
+# higher HPQ since working from home
+length(which(HPQB_HPQS_diff > 0))
+# 717
+
+# lower HPQ since working from home
+length(which(HPQB_HPQS_diff < 0))
+# 1,068
+
+
 # shift scale
 min_hpq <- min(HPQB_HPQS$HPQB, min(HPQB_HPQS$HPQS))
 min_hpq
